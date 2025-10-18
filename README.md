@@ -16,6 +16,8 @@ A comprehensive, intelligent anti-bot protection system built with Node.js, Expr
 - **User Agent Analysis**: Suspicious browser signatures and automation tools
 - **Custom Rules Engine**: Priority-based blocking rules with conditions
 
+<img src="f06015e1-b490-4124-a094-ad2794494d9e.png">
+
 ### 🌍 Geographic Control
 - **Country-based Blocking**: Allow/block traffic by country codes
 - **IP Geolocation**: Real-time location detection using GeoIP
